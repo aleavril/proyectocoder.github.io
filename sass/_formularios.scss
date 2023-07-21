@@ -1,6 +1,10 @@
-.campo:focus {
+.input:focus {
     background-color: aquamarine;
     &::placeholder {
         color: rgb(218, 50, 28);
     }
+}
+
+.inputEmail4:focus {
+    background-color: red($color: #000000);
 }

@@ -130,14 +130,18 @@ body span {
   transition: 1s;
 }
 
-.campo:focus {
+.input:focus {
   background-color: aquamarine;
 }
-.campo:focus::-moz-placeholder {
+.input:focus::-moz-placeholder {
   color: rgb(218, 50, 28);
 }
-.campo:focus::placeholder {
+.input:focus::placeholder {
   color: rgb(218, 50, 28);
+}
+
+.inputEmail4:focus {
+  background-color: 0;
 }
 
 #footer {
