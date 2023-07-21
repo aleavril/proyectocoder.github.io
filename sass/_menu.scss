@@ -1,0 +1,10 @@
+.menu {
+    & li a {
+        text-decoration: none;
+    }
+    display: inline-block;
+    color: white;
+    display:flex;
+    justify-content: end;
+    margin: 5px;
+}

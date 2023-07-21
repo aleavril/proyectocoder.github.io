@@ -1,0 +1,6 @@
+.campo:focus {
+    background-color: aquamarine;
+    &::placeholder {
+        color: rgb(218, 50, 28);
+    }
+}

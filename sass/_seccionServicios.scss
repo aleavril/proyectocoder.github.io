@@ -1,0 +1,18 @@
+.nuestrosServicios {
+    padding: 20px; /* no toma el padding en el texto */
+    display: flex;
+    justify-content: center;
+    &.servicios-titulo {
+        font-size: 26px;
+        margin: 20px 10px 20px 10px;
+        text-align: center;
+        color: antiquewhite;
+    }
+    &.servicios-texto {
+        font-size: 18px;
+        margin-top: 10px;
+        text-align: center;
+        color: blue;
+    }
+
+}

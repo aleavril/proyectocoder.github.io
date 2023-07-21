@@ -1,0 +1,172 @@
+/* html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+    box-sizing: border-box;
+}
+ol, ul {
+	list-style: none;
+} */
+
+
+/* body {
+    font-family: 'Kanit', sans-serif;
+} */
+
+/* .menu {
+    display: inline-block;
+    color: white;
+    display:flex;
+    justify-content: end;
+    margin: 5px;
+} */
+
+/* .menu li a {
+    text-decoration: none;
+} */
+
+/* h1 {
+    color: white;
+    margin: 10px;
+    display: inline-block
+} */
+
+/* #main {
+    background-image: url(../img/circuito-gris.jpg);
+    background-size: cover;
+    color: white;
+} */
+
+/* header {
+    position: sticky;
+    top: 10px;
+} */
+
+/* #encabezado {
+    background-image: url(#);
+} */
+
+/* .logo {
+    display: inline-block;
+    margin: 10px;
+} */
+
+/* li {
+    background-color: white;
+    display: inline-block;
+    margin: 2px;
+    padding: 5px;
+    border: 1px solid white;
+} */
+
+/* li:hover {
+    background-color: rgb(218, 50, 28);
+} */
+
+/* @media (max-width: 520px) {
+    .img-bootstrap {
+      width: 100%;
+    }
+} */
+
+/* #seccionPrincipal {
+    display: grid;
+} */
+
+/* #seccionServicios {
+    display: grid;
+    gap: 15px;
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: grey;
+    grid-template-columns: 1fr 1fr;
+} */
+
+/* #seccionServicios .nuestrosServicios {
+    padding: 20px; 
+    display: flex;
+    justify-content: center;
+} */
+
+/* .servicios-titulo {
+    font-size: 26px;
+    margin: 20px 10px 20px 10px;
+    text-align: center;
+    color: antiquewhite;
+} */
+
+/* .servicios-texto {
+    font-size: 18px;
+    margin-top: 10px;
+    text-align: center;
+    color: blue;
+} */
+
+/* @media (max-width: 767px) {
+    #seccionServicios {
+        grid-template-columns: auto;
+    }
+} */
+
+/* #seccionQuienesSomos {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+} */
+
+/* #seccionClientes {
+    display: grid;
+} */
+
+/* .tituloPrincipal {
+    margin: 40px auto;
+    display: flex;
+    justify-content: center;
+} */
+
+/* p {
+    text-align: center;
+}
+
+span {
+    text-align: center;
+} */
+
+/* .botones {
+    color: white;
+    display: inline-block;
+    background-color: blue;
+    border: 10px;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 25px;
+} */
+
+/* .botones:hover {
+    background-color: rgb(218, 50, 28);
+} */
+
+/* HTML CONTACTO */
+/* .campo:focus {
+    background-color: aquamarine;
+}
+
+.campo::placeholder {
+    color: rgb(218, 50, 28);
+} */
+
+/* #footer {
+    background-color: grey;
+} */

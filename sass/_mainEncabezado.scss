@@ -1,0 +1,32 @@
+#main {
+    background-image: url(../img/circuito-gris.jpg);
+    background-size: cover;
+    color: white;
+        header {
+            position: sticky;
+            top: 10px;
+        }
+            h1 {
+                color: white;
+                margin: 10px;
+                display: inline-block
+            }
+            nav {
+                li {
+                    background-color: white;
+                    display: inline-block;
+                    margin: 2px;
+                    padding: 5px;
+                    border: 1px solid white;
+                        &:hover {
+                            background-color: rgb(218, 50, 28);
+                }
+                
+            }
+        }
+    
+}
+
+#encabezado {
+    background-image: url(#);
+}

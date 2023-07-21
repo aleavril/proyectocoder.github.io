@@ -1,0 +1,14 @@
+.botones {
+    color: white;
+    display: inline-block;
+    background-color: blue;
+    border: 10px;
+    padding: 10px;
+    margin: 10px auto; /* deberia centrarse el elemento? */
+    border-radius: 25px;
+    &:hover {
+        background-color: rgb(218, 50, 28);
+        scale: 2;
+        transition: 1s;
+    }
+}
