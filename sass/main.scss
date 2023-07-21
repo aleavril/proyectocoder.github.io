@@ -10,3 +10,8 @@
 @import "botones";
 @import "formularios";
 @import "footer";
+
+.img-bootstrap:hover {
+    transform: rotate(360deg);
+    transition: 1s;
+}

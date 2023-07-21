@@ -142,4 +142,9 @@ body span {
 
 #footer {
   background: radial-gradient(red, grey, black);
+}
+
+.img-bootstrap:hover {
+  transform: rotate(360deg);
+  transition: 1s;
 }/*# sourceMappingURL=main.css.map */
