@@ -5,6 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Servicios</title>
+    <!-- SEO -->
+    <meta name="description" content="REDWORK es una empresa pionera en la prestación de servicios informáticos. Desde hace más de 30 años presta servicios en los rubros de Auditoría Informática para brindarle calidad y asesoramiento a la altura de sus necesidades">
+    <meta name="keywords" content="informatica, servicio, tecnico, contrataciones, notebooks, pc, redes, wifi, asesoramiento, presupuestos">
+    <!-- SEO -->
+    <!-- animate CSS -->
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    /> <!-- animate CSS -->
     <link rel="shortcut icon" href="../ico/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="../sass/main.css">
@@ -17,11 +26,11 @@
     
     <main id="main">
         <header id="encabezado">
-            <div class="logo">
+            <div class="logo animate__animated animate__flash">
                 <img src="../img/LogoRedwork.png" alt="Logo" width="100" height="auto">
             <!-- <span>LOGO</span> -->
             </div>
-            <h1>Sistemas informáticos REDWORK</h1>
+            <h1 class="animate__animated animate__backInDown">Sistemas informáticos REDWORK</h1>
             <nav class="navbar navbar-expand-lg bg-body-tertiary">
                 <div class="container-fluid">
                   <a class="navbar-brand" href="#">Menu</a>
@@ -55,12 +64,23 @@
         </header>
     </main>
 
-    <div>
-        <h2>Nuestros servicios</h2>
-            <p>Nuestro servicio de abonos de redes a empresas está diseñado con el fin de cubrir integralmente todos los aspectos del área de tecnología de su negocio.</p>
-
-        <img src="../img/imagen-descansando.jpg" width="500pxs" height="auto" alt="descasando" srcset="">
-    </div>
+    <div class="container-fluid text-center bg-primary-subtle mt-1">
+      <div class="row">
+        <div class="col-sm-12 col-md-4">
+          <article .class="nuestrosServicios">
+              <h2 class="servicios-titulo text-primary">Nuestros servicios</h2>
+              <span class="servicios-texto text-primary">
+                Nuestro modelo de prestación de servicios ha ayudado a disminuir tanto la cantidad de incidencias mensuales como los tiempos de parada de los equipos y sistemas de nuestros clientes.
+                <span>Nuestro servicio de abonos de redes a empresas está diseñado con el fin de cubrir integralmente todos los aspectos del área de tecnología de su negocio.
+                </span>
+              </span>
+          </article>
+        </div>
+        <div class="col-sm-12 col-md-8">
+          <img class="img-bootstrap" src="../img/imagen-descansando.jpg" width="500pxs" height="auto" alt="descansando" srcset="">
+        </div>
+      </div>
+  </div>
 
 
     <footer id="footer">
