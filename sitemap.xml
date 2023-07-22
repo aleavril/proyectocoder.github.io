@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/issues</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/pulls</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/projects?query=is%3Aopen</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/security</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/releases</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/labels</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/milestones</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/compare</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/caches</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5631176874</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5630931131</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5630773648</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5626653068</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5626609167</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/labels?sort=name-asc</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/labels?sort=name-desc</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/labels?sort=count-desc</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/labels?sort=count-asc</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/labels/bug</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/labels/documentation</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/labels/duplicate</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/labels/enhancement</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/labels/good%20first%20issue</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/labels/help%20wanted</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/labels/invalid</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/labels/question</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/labels/wontfix</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/milestones?state=open</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/milestones?state=closed</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5631176874/job/15257865865</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5631176874/job/15257868969</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5631176874/job/15257869016</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5631176874/usage</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/commit/5127382814ce18944527f31ee9e3aaf53b061c6a</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5630931131/job/15257375753</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5630931131/job/15257378868</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5630931131/job/15257378910</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5630931131/usage</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/commit/40a2bc7450f34430a870954dbea6dceb37f29e32</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5630773648/job/15257075793</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5630773648/job/15257082120</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5630773648/job/15257082182</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5630773648/usage</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/commit/35c891c1cbb1df7bf8ebeac979826b6d63f7ae2e</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5626653068/job/15247862334</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5626653068/job/15247873385</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5626653068/job/15247873537</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5626653068/usage</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/commit/3e9197163382792146fd7c2ae0d5989725cee0df</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5626609167/job/15247745710</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5626609167/job/15247757569</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5626609167/job/15247757768</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/actions/runs/5626609167/usage</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/commit/4155885fd011c4270ccd92b9334ca054d20f13f4</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/commit/e0ab5c633b1f97901f508880794ec7bd6732183e</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/aleavril/proyectocoder.github.io/commit/2ff9297329f5db430bc6087632e7b45a2f716275</loc>
+  <lastmod>2023-07-22T19:18:57+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
+</urlset>
