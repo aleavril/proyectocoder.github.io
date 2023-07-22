@@ -1,3 +1,19 @@
 .seccionContacto {
-    background-color: red($color: #000000);
+    background-color: red;
+    text-align: center;
+    h2 {
+        margin: 15px;
+        padding: 10px;
+    }
+    p {
+        margin: 5px;
+        padding-bottom: 10px;
+        color: white;
+    }
+}
+
+.seccionContacto {
+    animation-name: texto-contacto;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
 }

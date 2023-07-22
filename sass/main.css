@@ -139,10 +139,41 @@ body span {
 }
 
 .seccionContacto {
-  background-color: 0;
+  background-color: red;
+  text-align: center;
+}
+.seccionContacto h2 {
+  margin: 15px;
+  padding: 10px;
+}
+.seccionContacto p {
+  margin: 5px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.seccionContacto {
+  animation-name: texto-contacto;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
 }
 
 .img-bootstrap:hover {
   transform: rotate(360deg);
   transition: 1s;
+}
+
+@keyframes texto-contacto {
+  0% {
+    color: white;
+    font-size: 2rem;
+  }
+  50% {
+    color: red;
+    font-size: 3rem;
+  }
+  100% {
+    color: black;
+    font-size: 1rem;
+  }
 }/*# sourceMappingURL=main.css.map */
